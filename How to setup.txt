@@ -1,0 +1,37 @@
+Requirements:
+  ●Blutooth and WiFi compatible rasberry pi        (rasbery pi 5 is recomended)
+
+   ●Python 3+ installed
+
+Instructions:
+
+1.flash rasberry pi os on to sd card
+
+2. Put sd card in rasberry pi
+
+3. Connect rasberry pi to monitor using hdmi and make sure the rasberry pi is powered using type c cord
+
+4.install latest release of flippi
+
+5. Make sure you have python installed
+(Sudo apt install python3)
+
+6.run setup file for flippi
+
+7. Once complete run the flippi.py file as administrator  (go into the directory in a terminal and run command "sudo python3 flippi.py")
+
+8.all done the flippi software is ready 
+
+Info:
+
+Flippi stands for flipper rasberry pi as it is inspired by the flipper zero
+
+This project was make by a 13 year old
+
+This is and open source project aimed to make hacking tools affordable and reliable 
+
+Feel free to make edits of the project and repost online but
+
+ ALLWAYS GIVE ORIGINAL CREDS TO "spud-pi"
+
+COPRIGHT LAWS ON THIS PROJECT IN THE YEAR 2025 ALL RIGHTS ARE MINE THE OWNERS AND I HAVE FULLL CONTROLL OVER MY PROJECT ANYTHING YOU USE IT FOR IS YOUR FAULT I AM NOT RELIABLE FOR ANY DAMAGE CAUSED
